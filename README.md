@@ -16,6 +16,7 @@ Se puede introducir cualquier texto que no contenga saltos de linea, el solicita
 
 4.- Ingresa la tercer letra.
 
+
 La información que mostrará el programa será:
 
 1.- La cantidad de veces que aparece cada una de las letras que se eligió.
