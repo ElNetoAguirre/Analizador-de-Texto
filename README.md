@@ -27,4 +27,4 @@ La información que mostrará el programa será:
 
 4.- El texto introducido pero invirtiendo el orden de las palabras.
 
-5.- si la palabra "Python" se encuentra dentro de dicho texto. 
+5.- Si la palabra "Python" se encuentra dentro de dicho texto. 
